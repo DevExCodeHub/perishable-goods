@@ -21,6 +21,8 @@
 ### STEP 2: Clone the repo
 1. Click `Clone or download` button. Then, `Download ZIP`.
 
+<img width="289" alt="untitled22" src="https://user-images.githubusercontent.com/37486654/50207622-0d93d480-0380-11e9-8197-062c7f3d0abb.png">
+
 2. Right click on the downloaded `.zip` folder and click `Extract All`.
 
 ### STEP 3: Create IBM Blockchain Service
