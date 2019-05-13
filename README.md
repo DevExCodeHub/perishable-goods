@@ -10,7 +10,7 @@
 
 
 ### STEP 1: Sign up on IBM Cloud
-1. Sign up on [IBM Cloud](https://ibm.biz/BdY7C7)
+1. Sign up on [IBM Cloud](https://ibm.biz/Bd2nLh)
 2. Redeem Promo Code 
    * Click on **User Icon**
    * Click on **Profile**
